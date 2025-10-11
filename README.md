@@ -1,6 +1,6 @@
-# Repositório de 200 exercícios de JavaScript
+# Repositório de 200 exercícios de TypeScript
 
-Bem-vindo(a) à minha coleção de 200 exercícios resolvidos de JavaScript! 
+Bem-vindo(a) à minha coleção de 200 exercícios resolvidos de TypeScript! 
 
 ## Lista de Exercícios:
 
