@@ -4,7 +4,7 @@ Escreva um programa que verifica a situação de um(a) estudante de acordo com s
 
 */
 
-let mediaInformada = prompt("Informe a média do(a) estudante, de 0 a 10:");
+let mediaInformada: string | null = prompt("Informe a média do(a) estudante, de 0 a 10:");
 if(mediaInformada === null) {
     console.log("Erro: Valor informado é nulo. Não é possível continuar.");
 } else {
