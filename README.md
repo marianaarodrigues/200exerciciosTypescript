@@ -19,3 +19,17 @@ Bem-vindo(a) à minha coleção de 200 exercícios resolvidos de TypeScript!
 - [Exercício 07](exercicios/exercicio07.ts): Declara três variáveis e atribui valores numéricos, usa operadores de comparação, e imprime.
 
 - [Exercício 08](exercicios/exercicio08.ts): Declara uma variável e atribui um valor numérico, usa o operador de incremento, e imprime o resultado.
+
+- [Exercício 09](exercicios/exercicio09.ts): Recebe um número e verifica se ele é positivo, negativo ou zero.
+
+- [Exercício 10](exercicios/exercicio10.ts): Recebe duas notas, calcula a média e imprime se estudante foi aprovado(a) ou reprovado(a) (média para aprovação: 7).
+
+- [Exercício 11](exercicios/exercicio11.ts): Verifica se uma pessoa pode votar com base na idade.
+
+- [Exercício 12](exercicios/exercicio12.ts): Verifica a situação de um(a) estudante de acordo com sua média final.
+
+- [Exercício 13](exercicios/exercicio13.ts): Verifica a situação de uma pessoa (abaixo do peso, peso normal, sobrepeso, obesidade), conforme cálculo do IMC a partir do peso e altura informados.
+
+- [Exercício 14](exercicios/exercicio14.ts): Verifica se o ano informado é bissexto.
+
+- [Exercício 15](exercicios/exercicio15.ts): Verifica se uma palavra ou frase é um palíndromo.
