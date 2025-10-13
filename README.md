@@ -33,3 +33,13 @@ Bem-vindo(a) à minha coleção de 200 exercícios resolvidos de TypeScript!
 - [Exercício 14](exercicios/exercicio14.ts): Verifica se o ano informado é bissexto.
 
 - [Exercício 15](exercicios/exercicio15.ts): Verifica se uma palavra ou frase é um palíndromo.
+
+- [Exercício 16](exercicios/exercicio16.ts): Determina o maior entre três números.
+
+- [Exercício 17](exercicios/exercicio17.ts): Determina se um número é par ou ímpar.
+
+- [Exercício 18](exercicios/exercicio18.ts): Verifica se uma pessoa pode dirigir com base na idade.
+
+- [Exercício 19](exercicios/exercicio19.ts): Verifica se um número está dentro de um determinado intervalo.
+
+- [Exercício 20](exercicios/exercicio20.ts): Imprime uma classificação baseada na nota de um(a) aluno(a).
