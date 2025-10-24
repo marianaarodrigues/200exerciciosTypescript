@@ -43,3 +43,5 @@ Bem-vindo(a) à minha coleção de 200 exercícios resolvidos de TypeScript!
 - [Exercício 19](exercicios/exercicio19.ts): Verifica se um número está dentro de um determinado intervalo.
 
 - [Exercício 20](exercicios/exercicio20.ts): Imprime uma classificação baseada na nota de um(a) aluno(a).
+
+- [Exercício 21](exercicios/exercicio21.ts): Determina a estação do ano com base no mês.
