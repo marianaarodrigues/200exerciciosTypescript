@@ -1,0 +1,30 @@
+{
+  "name": "200exerciciostypescript",
+  "version": "1.0.0",
+  "description": "Bem-vindo(a) à minha coleção de 200 exercícios resolvidos de TypeScript!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marianaarodrigues/200exerciciosTypescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/marianaarodrigues/200exerciciosTypescript/issues"
+  },
+  "homepage": "https://github.com/marianaarodrigues/200exerciciosTypescript#readme",
+  "devDependencies": {
+    "@types/node": "^24.9.1",
+    "@types/readline-sync": "^1.4.8",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
