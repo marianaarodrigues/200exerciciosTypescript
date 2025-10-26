@@ -45,3 +45,11 @@ Bem-vindo(a) à minha coleção de 200 exercícios resolvidos de TypeScript!
 - [Exercício 20](exercicios/exercicio20.ts): Imprime uma classificação baseada na nota de um(a) aluno(a).
 
 - [Exercício 21](exercicios/exercicio21.ts): Determina a estação do ano com base no mês.
+
+- [Exercício 22](exercicios/exercicio22.ts): Determina o número de dias em um mês.
+
+- [Exercício 23](exercicios/exercicio23.ts): Verifica as cores de um semáforo.
+
+- [Exercício 24](exercicios/exercicio24.ts): Usando um laço for, imprime os números de 1 a 10.
+
+- [Exercício 25](exercicios/exercicio25.ts): Usando um laço while, imprime os números de 10 a 1 (em ordem decrescente).
