@@ -55,3 +55,11 @@ Bem-vindo(a) à minha coleção de 200 exercícios resolvidos de TypeScript!
 - [Exercício 25](src/exercicio25.ts): Usando um laço while, imprime os números de 10 a 1 (em ordem decrescente).
 
 - [Exercício 26](src/exercicio26.ts): Usando um laço do-while, imprime todos os números ímpares de 1 a 20.
+
+- [Exercício 27](src/exercicio27.ts): Usando um laço for, imprime a tabuada de multiplicação do número 5.
+
+- [Exercício 28](src/exercicio28.ts): Usando um laço while, calcula e imprime a soma de todos os números de 1 a 100.
+
+- [Exercício 29](src/exercicio29.ts): Usando um laço do-while, imprime todos os números pares de 1 a 100.
+
+- [Exercício 30](src/exercicio30.ts): Usando um laço for, imprime todos os números primos de 1 a 100.
