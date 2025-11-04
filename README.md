@@ -63,3 +63,13 @@ Bem-vindo(a) à minha coleção de 200 exercícios resolvidos de TypeScript!
 - [Exercício 29](src/exercicio29.ts): Usando um laço do-while, imprime todos os números pares de 1 a 100.
 
 - [Exercício 30](src/exercicio30.ts): Usando um laço for, imprime todos os números primos de 1 a 100.
+
+- [Exercício 31](src/exercicio31.ts): Usando um laço while, adivinha um número que a pessoa usuária pensou, através do método de busca binária.
+
+- [Exercício 32](src/exercicio32.ts): Usando um laço do-while, cria um jogo de 'Pedra, papel e tesoura' contra o computador.
+
+- [Exercício 33](src/exercicio33.ts): Usando um laço for, imprime os primeiros 10 números da sequência de Fibonacci.
+
+- [Exercício 34](src/exercicio34.ts): Usando um laço for, imprime os primeiros 100 termos do Problema FizzBuzz.
+
+- [Exercício 35](src/exercicio35.ts): Usando um laço for, imprime os primeiros 10 números triangulares (n*(n+1)/2).
