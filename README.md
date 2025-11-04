@@ -73,3 +73,13 @@ Bem-vindo(a) à minha coleção de 200 exercícios resolvidos de TypeScript!
 - [Exercício 34](src/exercicio34.ts): Usando um laço for, imprime os primeiros 100 termos do Problema FizzBuzz.
 
 - [Exercício 35](src/exercicio35.ts): Usando um laço for, imprime os primeiros 10 números triangulares (n*(n+1)/2).
+
+- [Exercício 36](src/exercicio36.ts): Usando um laço for, imprime todos os números perfeitos de 1 a 100.
+
+- [Exercício 37](src/exercicio37.ts): Usando um laço while, imprime a soma dos quadrados dos primeiros 10 números naturais.
+
+- [Exercício 38](src/exercicio38.ts): Usando um laço do-while, imprime a soma dos cubos dos primeiros 10 números naturais.
+
+- [Exercício 39](src/exercicio39.ts): Usando um laço for, calcula o fatorial de um número.
+
+- [Exercício 40](src/exercicio40.ts): Usando um laço while, inverte uma string.
